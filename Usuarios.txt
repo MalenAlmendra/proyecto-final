@@ -1,0 +1,12 @@
+Usuarios y contraseñas
+2000 - 123
+2001 - 456
+2002 - 789
+2003 - 101112
+
+crear el usuario de BD (opción:privilegios-> agregar cuenta de usuario)
+
+	servidor:localhost
+	usuario: admin
+	contraseña: 123456
+	operaciones permitidas sobre la BD: select, insert, update, delete
