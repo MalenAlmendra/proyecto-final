@@ -5,4 +5,4 @@ Proyecto realizado por la culminación de la carrera Tecnicatura en Computación
 
 # Preview
 
-[Imgur](https://i.imgur.com/wIkSGtt.png)
+![Imgur](https://i.imgur.com/wIkSGtt.png)
